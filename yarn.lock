@@ -3309,7 +3309,7 @@ __metadata:
     react-native-gesture-handler: "npm:~2.12.0"
     react-native-safe-area-context: "npm:4.6.3"
     react-native-screens: "npm:~3.22.0"
-    react-native-vision-camera: "npm:^3.7.0"
+    react-native-vision-camera: "npm:3.9.0-beta.3"
     typescript: "npm:^5.1.3"
   languageName: unknown
   linkType: soft
@@ -7732,9 +7732,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-vision-camera@npm:^3.7.0":
-  version: 3.7.0
-  resolution: "react-native-vision-camera@npm:3.7.0"
+"react-native-vision-camera@npm:3.9.0-beta.3":
+  version: 3.9.0-beta.3
+  resolution: "react-native-vision-camera@npm:3.9.0-beta.3"
   peerDependencies:
     react: "*"
     react-native: "*"
@@ -7742,7 +7742,7 @@ __metadata:
   peerDependenciesMeta:
     react-native-worklets-core:
       optional: true
-  checksum: a226242508ac18f22225ab330b9a120cce7d2b5d3ac5769b4735b94f752954bde5544db4f2cf062a8f795450cb162b85b927d2b95b684188232c650e17488a5a
+  checksum: 2924b865e4d51dcbac99808e7f999cb72db2ff87ef1b3b1deeede8247e8b2c0e130f28f8c1b6c96958919233c10e95a46cbaed5d8c3b3b30c1eb19fed565838a
   languageName: node
   linkType: hard
 
